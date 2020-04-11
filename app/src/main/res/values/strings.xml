@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="main_search">Search</string>
+    <string name="main_image_load_error">Error loading image</string>
+    <string name="main_no_search_results">Sorry, there are no search results for that query</string>
+
+    <string name="photo_detail_image_dimensions">%s X %s</string>
+</resources>
